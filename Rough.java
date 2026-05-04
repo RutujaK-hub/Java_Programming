@@ -4,6 +4,11 @@ class Hello
   {
     System.out.println("Inside fun of Hello);
   }
+
+  public void gun()
+  {
+    System.out.println("Inside gun of Hello");
+  }
 }
 
 
