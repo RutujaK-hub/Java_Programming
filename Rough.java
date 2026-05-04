@@ -2,7 +2,7 @@ class Hello
 {
   static void fun()
   {
-    System.out.println("Inside fun ofHello);
+    System.out.println("Inside fun of Hello);
   }
 }
 
