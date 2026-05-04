@@ -1,5 +1,6 @@
 class Hello
 {
+  int i,j;
   public static void fun()
   {
     System.out.println("Inside fun of Hello);
