@@ -22,6 +22,10 @@ public class Rough
     hobj = new Hello();
     Hello.fun();
     hobj.gun();
+
+    hobj.i;
+    hobj.j;
+    
     System.out.println("Inside class main");
   }
 }
