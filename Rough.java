@@ -20,6 +20,7 @@ public class Rough
   {
     Hello hobj = null;
     hobj = new Hello();
+    Hello.fun();
     System.out.println("Inside class main");
   }
 }
