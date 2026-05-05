@@ -1,4 +1,4 @@
-//
+// static method
 class Hello
 {
   int i,j;
