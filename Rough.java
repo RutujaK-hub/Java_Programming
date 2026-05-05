@@ -1,4 +1,4 @@
-// static method
+// static method calling
 class Hello
 {
   int i,j;
