@@ -18,6 +18,8 @@ public class Rough
 {
   public static void main(String A[])
   {
+    Hello hobj = null;
+    
     System.out.println("Inside class main");
   }
 }
