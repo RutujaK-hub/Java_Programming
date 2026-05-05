@@ -21,6 +21,7 @@ public class Rough
     Hello hobj = null;
     hobj = new Hello();
     Hello.fun();
+    hobj.gun();
     System.out.println("Inside class main");
   }
 }
