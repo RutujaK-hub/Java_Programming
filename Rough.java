@@ -1,3 +1,4 @@
+//
 class Hello
 {
   int i,j;
