@@ -1,4 +1,5 @@
 // static method calling
+
 class Hello
 {
   int i,j;
@@ -12,7 +13,6 @@ class Hello
     System.out.println("Inside gun of Hello");
   }
 }
-
 
 public class Rough
 {
